@@ -26,5 +26,5 @@ else{
 }
 return 'o Mario esta com ' + saldo + ' vidas e está no nivel ' + nivel
 }
-let saldoDoHeroi = calcularNivel (50,25);
+let saldoDoHeroi = calcularNivel (150,25);
 console.log(saldoDoHeroi)
